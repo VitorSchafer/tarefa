@@ -1,0 +1,10 @@
+.borda{
+    position: absolute;
+width: 800px;
+height: 40px;
+left: 220px;
+top: 120px;
+
+background: #F48C06;
+border-radius: 10px;
+}
